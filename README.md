@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hannah / @hbowley
-- 👩‍🎓 I have my Master of Public Health from Florida International University in Biostatistics
+- 👩‍🎓 I have my Master of Public Health- Biostatistics from Florida International University 
 - 🧩 I currently work as a Research Coordinator on a study examining the development of the hippocampus & spatial abilities in children
 - 💊 I’m also currently collaborating on a project investigating the Effects of stimulant medication on Brain development
 - 📚 My interests include meta-analyses, reproducible science, cognitive neuroscience, and machine learning
