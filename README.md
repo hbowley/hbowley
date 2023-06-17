@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hannah / @hbowley
 - 👩‍🎓 I have my Master of Public Health- Biostatistics from Florida International University 
-- 🧩 I currently work as a Research Coordinator on a study examining the development of the hippocampus & spatial abilities in children
+- 🧩 I currently work as a Research Coordinator on a study examining developmental changes in the hippocampus & spatial abilities
 - 🌈 Executive Director and Founder of PLUMY: Protecting LGBTQ+ Underserved Miami-Dade Youth 501(c)(3) nonprofit
 - 💊 I’m also currently collaborating on a project investigating the Effects of stimulant medication on Brain development
 - 📚 My interests include meta-analyses, reproducible science, cognitive neuroscience, and machine learning
