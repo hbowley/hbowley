@@ -6,7 +6,7 @@
 - 📚 My interests include meta-analyses, reproducible science, cognitive neuroscience, and machine learning
 - 🔍 My goals are to continue improving my data science skills. I'm currently interested in learning package building in R
 - 🎸 Fun Fact: When I'm not on my computer you can find me playing guitar or developing 35 mm film
-- 📫 How to reach me: hbowley@fiu.edu
+- 📫 How to reach me: hannah.marie.bowley@gmail.com
 
 <!---
 hbowley/hbowley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
