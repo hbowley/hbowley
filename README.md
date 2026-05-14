@@ -4,6 +4,7 @@
 - 📚 My interests include higher education, agentic AI, reproducible science, and machine learning
 - 🎸 Fun Fact: When I'm not on my computer you can find me playing guitar or developing 35 mm film
 - 📫 How to reach me: hannah.marie.bowley@gmail.com
+- ✨ Portfolio: [hbowley.github.io/Portfolio/](https://hbowley.github.io/Portfolio/)
 
 <!---
 hbowley/hbowley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
